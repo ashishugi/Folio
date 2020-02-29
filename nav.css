@@ -1,0 +1,75 @@
+.fa-github{
+    font-size: 50px;
+    color: black;
+    
+}
+.fa-quote-left{
+    color:rgb(29, 29, 218);
+    font-size: 25px;
+}
+.fa-quote-right{
+    color: rgb(29, 29, 218);
+    font-size: 25px;
+}
+.intro{
+    font-style: italic;
+    font-size:22px;
+}
+.description{
+    margin:20px;
+    font-size:20px;
+    font-family:'Anaheim';
+}
+.topicHead{
+    font-family: 'Atomic Age';
+    color:rgb(29, 29, 218);
+}
+.topicName{
+    font-family: 'Baumans';
+    color:rgb(20, 48, 107);
+}
+.setImage{
+    height:200px;
+    width:300px;
+    border-radius: 60px 0px 60px 60px;
+}
+.setImageexcept1{
+    height:200px;
+    width:300px;
+    border-radius: 60px 0px 60px 60px;
+    border:solid;
+    border-left-color: yellow;
+    border-bottom-color:blue;
+    border-top-color: orange;
+}
+.setImageexcept2{
+    height:200px;
+    width:300px;
+    border-radius: 0px 60px 60px 60px;
+    border:solid;
+    border-left-color: yellow;
+    border-bottom-color:blue;
+    border-top-color: orange;
+}
+.setImage2{
+    height:200px;
+    width:300px;
+    border-radius: 0px 60px 60px 60px;
+}
+.pageSize{
+    min-height: 100%;
+    width:100%;
+}
+.fa-envelope{
+    font-size: 30px;    
+    color:rgb(29, 29, 218);
+}
+.fa-mobile{
+    font-size: 30px;    
+    color:rgb(29, 29, 218);
+}
+.btn{
+    
+    height:50px;
+    width:150px;
+}
