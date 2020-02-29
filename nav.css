@@ -1,6 +1,6 @@
 .fa-github{
     font-size: 50px;
-    color: black;
+    color: rgb(26, 26, 167);
     
 }
 .fa-quote-left{
@@ -72,4 +72,14 @@
     
     height:50px;
     width:150px;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link:hover {
+    transition-delay: 0.2s;
+    color: brown;
+    font-size: 30px;
+}
+nav i:hover{
+    color: black;
 }
